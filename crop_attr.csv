@@ -1,0 +1,6 @@
+Attr,wheat,Pearl millet,maize
+temp,"[15, 20]","['25', '30']","['21', '25']"
+water,medium,small,medium
+soil,"['drained loamy', ' clayey ', 'black']","['sandy', ' shallow black']","['alluvial', 'drained red', 'mountainous']"
+season,fall,early spring,early summer
+region,"['Uttar Pradesh', 'Punjab ', 'Madhya Pradesh', 'Haryana', 'Rajasthan', 'Bihar', 'Gujarat', 'Maharashtra', 'West Bengal', 'Uttarakhand']","['Uttar Pradesh', ' Maharashtra', ' Gujarat', ' Haryana']","['Karnataka', ' Uttar Pradesh', ' Bihar', ' Rajasthan ', 'Andhra Pradesh ']"
